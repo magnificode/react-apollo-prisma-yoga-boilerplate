@@ -1,4 +1,4 @@
-# React Apollog GraphQL Yoga Prisma Boilerplate
+# React Apollo GraphQL Yoga Prisma Boilerplate
 
 ## Uses
 - [Styled Components](https://www.npmjs.com/package/styled-components)
